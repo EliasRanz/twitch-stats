@@ -1,5 +1,8 @@
 # TwitchStats
 [![Build Status](https://travis-ci.org/Xxplosions/twitch-stats.svg?branch=master)](https://travis-ci.org/Xxplosions/twitch-stats)
+[![Dependencies](https://david-dm.org/xxplosions/twitch-stats.svg)](https://david-dm.org/xxplosions/twitch-stats)
+[![Dev Dependencies](https://david-dm.org/xxplosions/twitch-stats/dev-status.svg)](https://david-dm.org/xxplosions/twitch-stats?type=dev)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
