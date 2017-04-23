@@ -1,10 +1,5 @@
 language: node_js
 node_js:
   - "7.4.0"
-branches:
-  only:
-    - master
 before_script:
-  - npm install -g @angular/cli
-script:
-  - ng build --prod
+  - 'npm install -g grunt-cli'
