@@ -7,8 +7,8 @@ describe('twitch-stats App', () => {
     page = new TwitchStatsPage();
   });
 
-  it('should display message saying app works', () => {
+  it('should display message saying Sticky footer with fixed navbar', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('app works!');
+    expect(page.getH1Text()).toEqual('Sticky footer with fixed navbar');
   });
 });
